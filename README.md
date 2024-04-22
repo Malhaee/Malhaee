@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Malhaee
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning node;js
-- 💞️ I’m looking to collaborate on different kind of project currently i(m making discord bot
+- 💞️ I’m looking to collaborate on different kind of project currently i'm making discord bot
 - 😄 Pronouns: Mister ? 
 - ⚡ Fun fact: I'm French 🥖
 
